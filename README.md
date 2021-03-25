@@ -6,6 +6,7 @@
 #### [OSv](http://osv.io/)
 #### [Rumprun](https://github.com/rumpkernel/rumprun)
 #### [MiniOS](https://github.com/mirage/mini-os)
+#### [RustyHermit](https://github.com/hermitcore/rusty-hermit)
 ### Language Specific
 #### [MirageOS](https://mirage.io/)
 #### [HalVM](https://galois.com/project/halvm/)
