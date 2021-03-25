@@ -23,9 +23,15 @@
 
 
 ## Papers
+- [**CubicleOS: A Library OS with Software Componentisation for Practical Isolation**](https://asplos-conference.org/abstracts/asplos21-paper486-extended_abstract.pdf) _ASPLOS'21_
+- [**A Linux in Unikernel Clothing**](https://hckuo.github.io/pdfs/lupine.pdf) Eurosys'20
+- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys '20_
+- [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
+- [**KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization**](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-yiming.pdf) _ATC'18_
+- [**Unikernels as Processes**](https://dl.acm.org/doi/10.1145/3267809.3267845), _SOCC'18_
 - [**My VM is Lighter (and Safer) than your Container**](http://sysml.neclab.eu/projects/lightvm/lightvm.pdf), _SOSP17_
-- [**Unikernels: Library Operating Systems for the Cloud**](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), _ASPLOS13_ (MirageOS)
 - [**Unikernels: Rise of the Virtual Library Operating System**](http://queue.acm.org/detail.cfm?id=2566628), _ACM Queue 2014_ (MirageOS)
+- [**Unikernels: Library Operating Systems for the Cloud**](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), _ASPLOS13_ (MirageOS)
 - [**Jitsu: Just-In-Time Summoning of Unikernels**](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-madhavapeddy.pdf), _NSDI 2015_ (MirageOS)
 - [**HermitCore: A Unikernel for Extreme Scale Computing**](http://dl.acm.org/citation.cfm?id=2931093), _ROSS16_
 - [**Rump Kernels: No OS? No Problem!**](https://www.usenix.org/system/files/login/articles/login_1410_03_kantee.pdf), _;login14_
@@ -59,14 +65,8 @@ Appliances**](https://www.atiner.gr/papers/COM2017-2327.pdf)
 - [**Blip: JIT and Footloose On The Edge**](https://arxiv.org/pdf/1806.00039.pdf) Unpublished?
 - [**Unikernel-based Approach for Software-Defined Security in Cloud Infrastructures**](https://hal.inria.fr/hal-01798793/document) _IEEE NOMS 2018_
 - [**Enhancing Cloud Security and Privacy: The Unikernel Solution**](http://aura.abdn.ac.uk/bitstream/handle/2164/8524/AAB02.pdf)
-- [**A Binary-Compatible Unikernel**](https://www.ssrg.ece.vt.edu/papers/vee2019.pdf), _VEE'19_ (HermiTux)
 - [**Iso-UniK: lightweight multi-process unikernel through memory protection keys**]( https://cybersecurity.springeropen.com/articles/10.1186/s42400-020-00051-9) 
-- [**A Linux in Unikernel Clothing**](https://hckuo.github.io/pdfs/lupine.pdf) Eurosys'20
 - [**SEUSS: skip redundant paths to make serverless fast**](https://dl.acm.org/doi/abs/10.1145/3342195.3392698) Eurosys'20
-- [**KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization**](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-yiming.pdf) _ATC'18_
-- [**The Serverkernel Operating System**](https://dl.acm.org/doi/pdf/10.1145/3378679.3394537) _EdgeSys '20_
-- [**CubicleOS: A Library OS with Software Componentisation for Practical Isolation**](https://asplos-conference.org/abstracts/asplos21-paper486-extended_abstract.pdf) _ASPLOS'21_
-- [**Unikernels as Processes**](https://dl.acm.org/doi/10.1145/3267809.3267845), _SOCC'18_
 - [**PHP2Uni: Building Unikernels Using Scripting Language Transpilation**](https://ieeexplore.ieee.org/abstract/document/7923803/authors#authors), _IC2E'17_
 - [**USETL: Unikernels for Serverless Extract Transform and Load Why should you settle for less?**](https://dl.acm.org/doi/abs/10.1145/3343737.3343750), _APSys'18_
 - [**Unikernels: The Next Stage of Linux's Dominance**](https://dl.acm.org/doi/10.1145/3317550.3321445), _HotOS'19_
